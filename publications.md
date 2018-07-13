@@ -8,5 +8,5 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 --->
 
 #### Journal papers
-- Wenkai Jiang, Jianzhong Qi, Jeffrey Xu Yu, Jin Huang, Rui Zhang, "HyperX: A Scalable Hypergraph Framework", IEEE Transactions on Knowledge and Data Engineering.
+- Wenkai Jiang, Jianzhong Qi, Jeffrey Xu Yu, Jin Huang, Rui Zhang, **__"HyperX: A Scalable Hypergraph Framework"__**, IEEE Transactions on Knowledge and Data Engineering (TKDE).
 [[PDF]](http://www.ruizhang.info/publications/TKDE_HyperX.pdf)
