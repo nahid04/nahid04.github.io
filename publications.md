@@ -6,15 +6,12 @@ title: Publications
 You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+#### Arxiv Papers
 
-#### Thesis paper
-
-
-- S. M. N. Mahmud, "Safety-aware model-based reinforcement learning using barrier transformation," 2021 [[PDF]](https://scc-lab.github.io/Preprints/SCC.Mahmud2021.pdf)
-
+- R. V. Self, M. Abudia, S. M. N. Mahmud, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
+[[PDF]](https://arxiv.org/abs/1703.07068)
 
 #### Conference papers
-
 
 - S. M. N. Mahmud, K. Hareland, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties," 2021 American Control Conference (ACC), 2021, pp. 1979-1984, DOI: 10.23919/ACC50511.2021.9482976. 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9482976)
@@ -23,10 +20,10 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 [[PDF]](https://ieeexplore.ieee.org/document/9303883)
 
 
-#### Arxiv Papers
+#### Thesis paper
 
-- R. V. Self, M. Abudia, S. M. N. Mahmud, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
-[[PDF]](https://arxiv.org/abs/1703.07068)
+- S. M. N. Mahmud, "Safety-aware model-based reinforcement learning using barrier transformation," 2021 [[PDF]](https://scc-lab.github.io/Preprints/SCC.Mahmud2021.pdf)
+
 
 
 
