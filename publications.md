@@ -13,7 +13,7 @@ title: Publications
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9482976)
 
 - R. Self, S. M. N. Mahmud, K. Hareland and R. Kamalapurkar, "Online inverse reinforcement learning with limited data," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju Island, Korea (South), 2020, pp. 603-608, DOI: 10.1109/CDC42340.2020.9303883.
-[[PDF]](10.1109/CDC42340.2020.9303883)
+[[PDF]](https://ieeexplore.ieee.org/document/9303883)
 
 #### Arxiv Papers
 
