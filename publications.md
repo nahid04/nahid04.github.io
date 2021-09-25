@@ -6,7 +6,7 @@ title: Publications
 You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
-#### Arxiv Papers
+#### Submitted Papers
 
 - R. V. Self, M. Abudia, S. M. N. Mahmud, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
 [[PDF]](https://arxiv.org/abs/1703.07068)
