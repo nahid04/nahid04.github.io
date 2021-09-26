@@ -36,7 +36,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 900px;
   margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
@@ -88,7 +88,7 @@ img {
   margin-top: 30px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .disqus-comments {
     margin-top: 40px;
   }
@@ -140,7 +140,7 @@ img {
   height: 40px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .navbar-custom {
     padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -186,7 +186,7 @@ img {
   display: none;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
@@ -225,7 +225,7 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 1024px) {
   .navbar-custom .nav .navlinks-container.show-children {
     background: #eee;
   }
@@ -233,7 +233,7 @@ img {
     display: block;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
   }  
@@ -281,7 +281,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   footer {
     padding: 50px 0;
   }
@@ -300,7 +300,7 @@ footer .theme-by {
   border-bottom: 1px solid #eee;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .post-preview {
     padding: 35px 0;
   }
@@ -366,7 +366,7 @@ footer .theme-by {
   font-weight: 800;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .post-preview .post-title {
     font-size: 24px;
   }
@@ -398,7 +398,7 @@ footer .theme-by {
   margin-bottom: 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .post-preview .blog-tags {
     margin-top: 10px;
   }
@@ -498,7 +498,7 @@ footer .theme-by {
   bottom: 0;
   display: none;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .intro-header {
     margin-top: 130px;
   }
@@ -577,7 +577,7 @@ footer .theme-by {
   border-radius: 0;
   color: #404040;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .pager li a {
     padding: 15px 25px;
   }
@@ -597,7 +597,7 @@ footer .theme-by {
   margin-top: 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .pager.blog-pager  {
     margin-top: 10px;
   }
