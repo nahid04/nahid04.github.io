@@ -9,7 +9,7 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 
 #### Journal papers
 
-- <b>S. M. N. Mahmud</b>, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Model-Based Reinforcement Learning for Systems with Parametric Uncertainties," Frontiers in Robotics and AI, DOI: doi: 10.3389/frobt.2021.733104. 
+- <b>S. M. N. Mahmud</b>, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Model-Based Reinforcement Learning for Systems with Parametric Uncertainties," Frontiers in Robotics and AI, DOI: 10.3389/frobt.2021.733104. 
 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2021.733104/abstract)
 
 #### Conference papers
