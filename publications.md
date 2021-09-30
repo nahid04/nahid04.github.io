@@ -6,10 +6,11 @@ title: Publications
 You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
-#### Submitted Papers
 
-- R. V. Self, M. Abudia, <b>S. M. N. Mahmud</b>, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
-[[PDF]](https://arxiv.org/abs/1703.07068)
+#### Journal papers
+
+- <b>S. M. N. Mahmud</b>, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Model-Based Reinforcement Learning for Systems with Parametric Uncertainties," Frontiers in Robotics and AI, DOI: doi: 10.3389/frobt.2021.733104. 
+[[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2021.733104/abstract)
 
 #### Conference papers
 
@@ -19,6 +20,10 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 - R. Self, <b>S. M. N. Mahmud</b>, K. Hareland and R. Kamalapurkar, "Online inverse reinforcement learning with limited data," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju Island, Korea (South), 2020, pp. 603-608, DOI: 10.1109/CDC42340.2020.9303883.
 [[PDF]](https://ieeexplore.ieee.org/document/9303883)
 
+#### Submitted Papers
+
+- R. V. Self, M. Abudia, <b>S. M. N. Mahmud</b>, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
+[[PDF]](https://arxiv.org/abs/1703.07068)
 
 #### Thesis paper
 
