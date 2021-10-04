@@ -6,6 +6,13 @@ title: Publications
 You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+#### Submitted Manuscripts
+
+- <b>S. M. N. Mahmud</b>, M. Abudia, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safety aware model-based reinforcement learning for optimal control of a
+  class of output-feedback nonlinear systems,". Pre-print version: https://arxiv.org/abs/2110.00271. [[PDF]](https://arxiv.org/abs/2110.00271)
+
+- R. V. Self, M. Abudia, <b>S. M. N. Mahmud</b>, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation,". Pre-print version: https://arxiv.org/abs/1703.07068.
+[[PDF]](https://arxiv.org/abs/1703.07068)
 
 #### Journal papers
 
@@ -19,11 +26,6 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 
 - R. Self, <b>S. M. N. Mahmud</b>, K. Hareland and R. Kamalapurkar, "Online inverse reinforcement learning with limited data," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju Island, Korea (South), 2020, pp. 603-608, DOI: 10.1109/CDC42340.2020.9303883.
 [[PDF]](https://ieeexplore.ieee.org/document/9303883)
-
-#### Submitted Papers
-
-- R. V. Self, M. Abudia, <b>S. M. N. Mahmud</b>, and R. Kamalapurkar, "Online Simultaneous State and Parameter Estimation," IEEE Trans. Autom. Control. Pre-print version: https://arxiv.org/abs/1703.07068.
-[[PDF]](https://arxiv.org/abs/1703.07068)
 
 #### Thesis paper
 
