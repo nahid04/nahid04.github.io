@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-#### Recent Projects
+## Recent Projects
 
 - <b style="font-size:24px"> Minimum Time-to-Climb of a Supersonic Aircraft [Dec'20] </b>
 
@@ -25,7 +25,7 @@ title: Projects
 <p><small> In this project, a simulation framework using Netlogo was developed using a famous metaheuristics algorithm named "Grey Wolf Algorithm". </small></p>
 
 
-#### Past Projects
+## Past Projects
 
 - <b style="font-size:24px"> Analysis of wind Characteristics in South-East Zone Bangladesh [2016]</b>
 
