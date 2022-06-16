@@ -8,6 +8,8 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 
 #### Submitted Manuscripts
 
+- <b> S. M. N. Mahmud</b>, M. Abudia, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Controller for Output Feedback Linear Systems using Model-Based Reinforcement Learning,". Pre-print version: https://arxiv.org/abs/2204.01409. [[PDF]](https://arxiv.org/abs/2204.01409) [[Code]](https://github.com/nahid04/SMBL-for-optimal-control-of-output-feedback-linear-systems)
+
 - <b>S. M. N. Mahmud</b>, M. Abudia, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safety aware model-based reinforcement learning for optimal control of a
   class of output-feedback nonlinear systems,". Pre-print version: https://arxiv.org/abs/2110.00271. [[PDF]](https://arxiv.org/abs/2110.00271) [[Code]](https://github.com/nahid04/SMBL-for-optimal-control-of-a-class-of-output-feedback-nonlinear-systems)
 
@@ -16,15 +18,14 @@ You can visit my <a href="https://scholar.google.com/citations?user=aFbcmH0AAAAJ
 
 #### Journal papers
 
-- <b> S. M. N. Mahmud</b>, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Model-Based Reinforcement Learning for Systems with Parametric Uncertainties," Frontiers in Robotics and AI, DOI: 10.3389/frobt.2021.733104. 
+-  R. V. Self, M. Abudia, <b> S. M. N. Mahmud </b> and R. Kamalapurkar, “Model-based inverse reinforcement learning for deterministic systems,” Automatica, 2022, DOI: 10.1016/j.automatica.2022.110242. [[PDF]](https://www.sciencedirect.com/sdfe/reader/pii/S0005109822000875/pdf) 
+
+- <b> S. M. N. Mahmud</b>, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "Safe Model-Based Reinforcement Learning for Systems with Parametric Uncertainties," Frontiers in Robotics and AI, 2021, DOI: 10.3389/frobt.2021.733104. 
 [[PDF]](https://www.frontiersin.org/articles/10.3389/frobt.2021.733104/abstract) [[Code]](https://github.com/nahid04/Safe-Model-Based-Reinforcement-Learning-for-Systems-with-Parametric-Uncertainties)
-
-- <b> R. V. Self, M. Abudia, S. M. N. Mahmud and R. Kamalapurkar, “Model-based inverse reinforcement learning for deterministic systems,” To appear in Automatica, 2021.
-
 
 #### Conference papers
 
-- <b>S. M. N. Mahmud</b>, K. Hareland, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties," 2021 American Control Conference (ACC), 2021, pp. 1979-1984, DOI: 10.23919/ACC50511.2021.9482976. 
+- <b> S. M. N. Mahmud</b>, K. Hareland, S. A. Nivison, Z. I. Bell and R. Kamalapurkar, "A Safety Aware Model-Based Reinforcement Learning Framework for Systems with Uncertainties," 2021 American Control Conference (ACC), 2021, pp. 1979-1984, DOI: 10.23919/ACC50511.2021.9482976. 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9482976) [[Code]](https://github.com/nahid04/Safe-Model-Based-Reinforcement-Learning-for-Systems-with-Parametric-Uncertainties)
 
 - R. Self, <b>S. M. N. Mahmud</b>, K. Hareland and R. Kamalapurkar, "Online inverse reinforcement learning with limited data," 2020 59th IEEE Conference on Decision and Control (CDC), Jeju Island, Korea (South), 2020, pp. 603-608, DOI: 10.1109/CDC42340.2020.9303883.
